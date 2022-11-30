@@ -1,3 +1,6 @@
 [submodule "themes/simple-dev-blog-zola-starter"]
 	path = themes/simple-dev-blog-zola-starter
 	url = https://github.com/bennetthardwick/simple-dev-blog-zola-starter.git
+[submodule "themes/themes/oceanic-zen"]
+	path = themes/themes/oceanic-zen
+	url = https://github.com/barlog-m/oceanic-zen.git

@@ -6,3 +6,8 @@ tags = [ "beginner" ]
 +++
 
 This is my second blog post.
+
+
+```rust
+println!("Hello, World!");
+```
